@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "ept",
+    "password": "ept!45@DB",
+    "database": "eptpsql",
+    "host": "vcm-20066.vm.duke.edu",
+    "port":"5432",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ept",
+    "password": "ept!45@DB",
+    "database": "eptpsql",
+    "host": "vcm-20066.vm.duke.edu",
+    "port":"5432",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ept",
+    "password": "ept!45@DB",
+    "database": "eptpsql",
+    "host": "vcm-20066.vm.duke.edu",
+    "port":"5432",
+    "dialect": "postgres"
+  }
+}
